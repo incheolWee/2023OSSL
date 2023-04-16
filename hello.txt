@@ -1,4 +1,8 @@
 hello.txt
 have a nice day
+<<<<<<< HEAD
 
 파일 추가 2
+=======
+파일변경
+>>>>>>> 9d0e9fe024d6d65d5b5c5b7d2b35a5bde1132072
